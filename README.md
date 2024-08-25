@@ -73,11 +73,9 @@ _Para desarrollar el proyecto, utilice las siguientes herramientas:_
 * [Trello](https://trello.com/es) - Herramienta de gestión de proyectos.
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web.
 
-## Autores ✒️
+## Autor ✒️
 
-* **Jeanmarie Quijada** - *Desarrolladora e Instructor en Alura LATAM* - [Jeanmarie](https://www.linkedin.com/in/jeanmariequijada/)
-* **Génesys Rondón** - *Desarrolladora e Instructora en Alura LATAM* - [Génesys](https://www.linkedin.com/in/genesysrondon914762182/)
-* **Victor Rodríguez** - *Desarrollador* - [Victor](https://www.linkedin.com/in/victor-manuel-rdz-l/)
+* **Duverney Robayo** - *Desarrollador* 
 	
 		
 		
