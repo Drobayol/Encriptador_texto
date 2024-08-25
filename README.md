@@ -56,15 +56,12 @@ Para probarlo se puede de dos maneras ya sea descargando una copia en su computa
 
 **Para descargarlo:**
 
-[Clic para Descargar](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/releases/tag/v0.1.1)
+[Clic para Descargar](https://github.com/Drobayol/Encriptador_texto)
 
 **Para probarlo directamente:**
 
-[Encriptador de Texto](https://victorrodriguezl.github.io/Challenge-Encriptador-de-Texto/)
+[Encriptador de Texto](https://encriptador-texto-pearl.vercel.app/)
 
-**Demo:**
-
-![Demo](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/assets/123136998/3015b1db-b343-4dce-816f-fe93f3a350c0)
 
 ## Construido con 🛠️
 
